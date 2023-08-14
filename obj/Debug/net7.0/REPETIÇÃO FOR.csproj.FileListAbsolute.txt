@@ -1,0 +1,15 @@
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\obj\Debug\net7.0\REPETIÇÃO FOR.csproj.AssemblyReference.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\obj\Debug\net7.0\REPETIÇÃO FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\obj\Debug\net7.0\REPETIÇÃO FOR.AssemblyInfoInputs.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\obj\Debug\net7.0\REPETIÇÃO FOR.AssemblyInfo.cs
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\obj\Debug\net7.0\REPETIÇÃO FOR.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\bin\Debug\net7.0\REPETIÇÃO FOR.exe
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\bin\Debug\net7.0\REPETIÇÃO FOR.deps.json
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\bin\Debug\net7.0\REPETIÇÃO FOR.runtimeconfig.json
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\bin\Debug\net7.0\REPETIÇÃO FOR.dll
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\bin\Debug\net7.0\REPETIÇÃO FOR.pdb
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\obj\Debug\net7.0\REPETIÇÃO FOR.dll
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\obj\Debug\net7.0\refint\REPETIÇÃO FOR.dll
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\obj\Debug\net7.0\REPETIÇÃO FOR.pdb
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\obj\Debug\net7.0\REPETIÇÃO FOR.genruntimeconfig.cache
+C:\Users\Carlos Eduardo\Desktop\Estudo C#\REPETIÇÃO FOR\obj\Debug\net7.0\ref\REPETIÇÃO FOR.dll
